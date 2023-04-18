@@ -1,8 +1,8 @@
-# Paper Finder
-Find papers from specific authors on arxiv, sorted by date. Currently designed for local hosting only.
+# Newsie  📰
+**Find papers from specific authors on arxiv, sorted by date.** Currently designed for local hosting only.
 
-## Instructions
-To run on your localhost, do the following:
+## Running Project Locally
+To run on , do the following:
 
 1. Create a local environment
 ```
